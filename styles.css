@@ -1,0 +1,15 @@
+h1{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+span{
+    background-color:black;
+    color:white;
+    padding:10px;
+}
+form {
+    display:flex;
+}
+input{
+   
+    padding:20px;
+}
